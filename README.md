@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding and travelling
 - 🌱 I’m currently learning javascripts
 - 💞️ I’m looking to collaborate on my projects to make it better
-- 📫 How to reach me twitter.com/ritanshusoni
+- 📫 How to reach me @twitter.com/ritanshusoni
 
 <!---
 Ritanshusoni/Ritanshusoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
